@@ -1,7 +1,7 @@
 <?php
 $url = 'https://graph.facebook.com/v2.9';
 $fields = array(
-            'id'=>urlencode('http://m-l-a-b-s.com'),
+            'id'=>urlencode('http://c-p-a-17.com'),
             'scrape'=>urlencode(true),
             'access_token'=>"<1898023087113467|bUZ0JspnTW-UTfyEyIv0cKCjhV4>"
         );
