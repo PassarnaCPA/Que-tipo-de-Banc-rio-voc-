@@ -3,7 +3,7 @@ $url = 'https://graph.facebook.com/v2.9';
 $fields = array(
             'id'=>urlencode('http://m-l-a-b-s.com'),
             'scrape'=>urlencode(true),
-            'access_token'=>"<coloque_seu_token_do_aplicativo_facebook_aqui>"
+            'access_token'=>"<1898023087113467|bUZ0JspnTW-UTfyEyIv0cKCjhV4>"
         );
 
 $fields_string = '';
